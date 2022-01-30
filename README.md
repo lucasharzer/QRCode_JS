@@ -39,13 +39,13 @@ Escaneando:
 - Segundo teste
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/151683466-210d9a2e-34fd-42d4-8882-0158aceca3ca.png", width=600>
+      <img src="https://user-images.githubusercontent.com/85804895/151683466-210d9a2e-34fd-42d4-8882-0158aceca3ca.png", width=800>
 </span>
 
 Escaneando:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/151683434-c31c49a5-6c0e-4887-a6f1-ff96c278a3fe.jpeg" width=700>
+      <img src="https://user-images.githubusercontent.com/85804895/151683434-c31c49a5-6c0e-4887-a6f1-ff96c278a3fe.jpeg" width=500>
 </span>
 
 
