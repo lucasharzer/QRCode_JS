@@ -33,6 +33,6 @@ node tests/url_qrcode.js
 Escaneando:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/151683378-25bae3c5-be15-474f-96ce-ddddf7fe95af.jpeg">
+      <img src="https://user-images.githubusercontent.com/85804895/151683378-25bae3c5-be15-474f-96ce-ddddf7fe95af.jpeg" width=400>
 </span>
 
