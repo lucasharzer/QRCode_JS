@@ -45,7 +45,7 @@ Escaneando:
 Escaneando:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/151683434-c31c49a5-6c0e-4887-a6f1-ff96c278a3fe.jpeg" width=500>
+      <img src="https://user-images.githubusercontent.com/85804895/151683434-c31c49a5-6c0e-4887-a6f1-ff96c278a3fe.jpeg" width=700>
 </span>
 
 
