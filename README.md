@@ -39,7 +39,7 @@ Escaneando:
 - Segundo teste
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/151683466-210d9a2e-34fd-42d4-8882-0158aceca3ca.png">
+      <img src="https://user-images.githubusercontent.com/85804895/151683466-210d9a2e-34fd-42d4-8882-0158aceca3ca.png", width=600>
 </span>
 
 Escaneando:
