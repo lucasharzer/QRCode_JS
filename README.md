@@ -4,7 +4,7 @@ Funções para gerar QRCode contendo informações (string) e mostrar no termina
 
 # Biblioteca
 
-- qrcode: biblioteca do NodeJS para gerar QRCode.
+- qrcode: Biblioteca do NodeJS para gerar QRCode.
 
 # Comandos
 
@@ -21,4 +21,6 @@ node tests/qrcode.js
 ```bash
 node tests/url_qrcode.js
 ```
+
+# Resultado
 
